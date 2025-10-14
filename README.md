@@ -1,4 +1,4 @@
-# Midterm GitHub Project: Dr Stone Vs Demon Slayer 🌳 👺
+# Midterm GitHub Project: Dr Stone vs Demon Slayer 🌳 👺
 This is a partner-based project in which we will debate which anime is better. Dr Stone or Demon Slayer.
 ## Installation
 No installation required. Simply download the zip file and extract

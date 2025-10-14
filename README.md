@@ -1,4 +1,4 @@
-Dr Stone Vs Demon Slayer 🌳 👺
+Git Hub Midterm Assignment: Dr Stone Vs Demon Slayer 🌳 👺
 This is a partner-based project in which we will debate which anime is better. Dr Stone or Demon Slayer.
 ## Installation
 No installation required. Simply download the zip file and extract
@@ -11,7 +11,7 @@ Open index.html in the browser of your choice.
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 ## History
-We have no history in this assignment.
+
 ## Credits 🤗
 Gabby and Keisha
 ## License
